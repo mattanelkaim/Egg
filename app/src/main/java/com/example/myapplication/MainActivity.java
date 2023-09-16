@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
         clicksCounter--;
         if (clicksCounter > 0)
         {
-            System.out.println("You clicked me!!");
             updateClicks();
             updateEgg();
         }
