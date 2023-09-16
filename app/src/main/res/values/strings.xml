@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Egg</string>
+    <string name="welcome">Crack me!</string>
+    <string name="clicks_left">%1$d clicks left</string>
+    <string name="win_msg">Taridan</string>
+    <string name="reset_btn">Again</string>
+</resources>
